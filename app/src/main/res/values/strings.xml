@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presence</string>
+    <string name="tab_playground">校园</string>
+    <string name="tab_course">签到</string>
+    <string name="tab_home">我</string>
+    <string name="update_now">更新</string>
+    <string name="update_later">稍后</string>
+</resources>
